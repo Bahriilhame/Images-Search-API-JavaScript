@@ -10,6 +10,12 @@ h1 {
   color: #fff;
   background-color: #133c7f;
 }
+p {
+  padding: 25px;
+  margin-top: 120px;
+  color: #fff;
+  background-color: #133c7f;
+}
 form {
   display: flex;
   justify-content: center;
